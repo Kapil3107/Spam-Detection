@@ -1,4 +1,4 @@
-# Detecting Spam messages
+# Detecting Spam Messages
 
 * Getting a dataset from Kaggle and training a model using SciKit Learn which can identify whether the message is Spam or not.
 * Validating the model using 2/3rd of the dataset for training and the rest for testing.
